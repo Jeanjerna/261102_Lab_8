@@ -2,10 +2,6 @@
 #include <string>
 using namespace std;
 
-// string print(string name)
-// {
-//     cout << name;
-// }
 
 int main()
 {
